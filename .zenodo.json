@@ -1,0 +1,9 @@
+{
+  "title": "Najran_0Carbon: data and code for satellite evidence on low-carbon growth in Najran, Saudi Arabia",
+  "upload_type": "dataset",
+  "description": "Earth Engine scripts, Python analysis code, blind validation points, zone-level indicators, land-cover and surface-temperature rasters (2000–2026) and a bilingual zone atlas supporting the article 'Guiding low-carbon growth in an arid oasis city: satellite evidence from Najran, Saudi Arabia'.",
+  "creators": [{"name": "Elkhrachy, Ismail", "affiliation": "Najran University", "orcid": "0000-0001-9766-779X"}],
+  "license": "cc-by-4.0",
+  "keywords": ["urban expansion", "oasis", "land surface temperature", "rooftop photovoltaics", "Landsat", "Google Earth Engine", "Najran", "Saudi Arabia"],
+  "access_right": "open"
+}

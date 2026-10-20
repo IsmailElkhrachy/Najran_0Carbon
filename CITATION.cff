@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Najran_0Carbon: data and code for satellite evidence on low-carbon growth in Najran, Saudi Arabia"
+authors:
+  - family-names: Elkhrachy
+    given-names: Ismail
+    affiliation: "Department of Civil Engineering, College of Engineering, Najran University"
+    orcid: "https://orcid.org/0000-0001-9766-779X"
+version: "1.0.0"
+date-released: "2026-10-20"
+license: MIT
+keywords: [urban expansion, oasis, land surface temperature, rooftop photovoltaics, Landsat, Google Earth Engine, Najran]
